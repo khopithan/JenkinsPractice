@@ -4,7 +4,7 @@ public class GitJenPrac{
 		
 		System.out.println("ooi pisaasu");
 		System.out.println("hello madam");
-		System.out.println("lv u");
+		System.out.println("lv u...");
 		
 
 	}
